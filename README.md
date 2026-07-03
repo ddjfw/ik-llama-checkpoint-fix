@@ -242,10 +242,12 @@ auxiliary:
 
 ## Related Discussion
 
-Full technical discussion with additional context and community feedback:
+For the full optimization guide including quantization research,
+Hermes integration fixes, and server configuration presets, see:
+[hermes-qwen36-optimization](https://github.com/ddjfw/hermes-qwen36-optimization)
 
+Full technical discussion with community feedback:
 [HuggingFace Discussion Thread](https://huggingface.co/k0valik/Qwen3.6-27B-Omnimerge-v4-IQ4_XS-12.76GiB-GGUF/discussions/1)
-
 ---
 
 ## Applicability
